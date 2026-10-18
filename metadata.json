@@ -1,0 +1,8 @@
+{
+  "name": "Remix FileForge",
+  "description": "Complete premium iLovePDF-inspired PDF \u0026 document processing suite with merge, split, compress, convert, edit, sign, OCR, and AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
